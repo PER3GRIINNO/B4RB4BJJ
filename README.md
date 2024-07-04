@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PER3GRIINNO
+- 👋 Hi, I’m Junior Ferreira
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on front-end projects.
