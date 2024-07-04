@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @B4RB4BJJ
+- 👋 Hi, I’m @PER3GRIINNO
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on front-end projects.
-- 📫 How to reach me: obarbabjj@gmail.com
+- 📫 How to reach me: per3griinno@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving coding challenges in my free time.
 
