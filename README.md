@@ -1,12 +1,19 @@
-- 👋 Hi, I’m Junior Ferreira
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on front-end projects.
-- 📫 How to reach me: per3griinno@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving coding challenges in my free time.
+👋 Olá! Eu sou Ferrira Junior, onde o código se encontra com a criatividade para criar experiências web incríveis.
 
-<!---
-B4RB4BJJ/B4RB4BJJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Estudante de Front-end web developer por paixão, viciado em café por necessidade.
+
+🌐 Construindo interfaces modernas e responsivas enquanto navego pelas tendências tecnológicas como um ninja digital.
+
+🎨 No universo do HTML, CSS e JavaScript, sou um artista em formação, pintando a web com pixels e animando ideias com código.
+
+🛠️ Ferramentas favoritas:
+
+   - Editor: VS Code (porque a vida é muito curta para IDEs lentas)
+   - Linguagem: JavaScript (porque é como Lego, sempre dá para montar algo incrível)
+   - Framework: React (porque amo transformar componentes em mágica visual)
+
+💡 Fato curioso: já refatorei meu próprio portfólio mais vezes do que tomei café esta semana. A vida de desenvolvedor front-end é uma eterna busca pela perfeição pixel-perfect.
+
+📫 Quer trocar ideias sobre UX, animações CSS ou o meme mais recente de programação? Me manda um ping no [Seu Email](per3griinno@gmail.com)
+
+🔭 Atualmente aprimorando minhas habilidades.
