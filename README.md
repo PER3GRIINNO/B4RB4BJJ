@@ -14,6 +14,6 @@
 
 💡 Fato curioso: já refatorei meu próprio portfólio mais vezes do que tomei café esta semana. A vida de desenvolvedor front-end é uma eterna busca pela perfeição pixel-perfect.
 
-📫 Quer trocar ideias sobre UX, animações CSS ou o meme mais recente de programação? Me manda um ping no [per3griinno@gmail.com]
+📫 Quer trocar ideias sobre UX, animações CSS ou o meme mais recente de programação? Me manda um ping no per3griinno@gmail.com
 
 🔭 Atualmente aprimorando minhas habilidades.
